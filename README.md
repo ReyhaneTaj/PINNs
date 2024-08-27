@@ -11,7 +11,7 @@ This repository contains the implementation of forward-mode Physics-Informed Neu
 
 
 # Inverse Mode
-Inverse Mode: Inferring Material Parameters Using Synthetic Data
+Inverse Mode: Inferring Material Parameters Using Synthetic Data(Analytical Solution)
 
 This repository showcases the inverse-mode implementation of Physics-Informed Neural Networks (PINNs) using TensorFlow and DeepXDE. In this approach, the model is trained to infer unknown material parameters of HVDC insulation systems by fitting the network to synthetic data generated from analytical solutions. By solving the governing differential equations and adjusting the parameters to match the synthetic data, the model accurately extracts critical material properties, demonstrating its potential for applications in dielectric spectroscopy and beyond.
 
